@@ -50,3 +50,5 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 #  (ノಠ益ಠ)ノ彡┻━┻
+
+theme: jekyll-theme-dinky
